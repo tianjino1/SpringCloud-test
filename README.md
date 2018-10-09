@@ -31,3 +31,4 @@ git pull origin master
 
 将远程仓库 Github 上的文件拉下来合并之后重新推送上去
 
+![picture](http://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E5%9B%BE%E7%89%87&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&cs=415293130,2419074865&os=1556766946,250663840&simid=4145280632,499508967&pn=0&rn=1&di=156082395700&ln=1873&fr=&fmq=1539068974669_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0117e2571b8b246ac72538120dd8a4.jpg%401280w_1l_2o_100sh.jpg&rpstart=0&rpnum=0&adpicid=0)
